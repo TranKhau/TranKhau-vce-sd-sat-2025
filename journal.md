@@ -3,9 +3,9 @@
 ## Project Details
 
 - **Student Name**: Tran Khau
-- **GitHub Username**: 
-- **Project Title**: 
-- **Start Date**: 
+- **GitHub Username**: TranKhau-SAT-SD
+- **Project Title**: SAT(Gps for warehouse)
+- **Start Date**: 12/05/2025
 - **Class**: VCE Software Development Units 3 & 4
 
 ---
