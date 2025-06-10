@@ -2,7 +2,7 @@
 
 ## Project Details
 
-- **Student Name**: 
+- **Student Name**: Tran Khau
 - **GitHub Username**: 
 - **Project Title**: 
 - **Start Date**: 
